@@ -1,0 +1,16 @@
+/* TEAM */
+Author: Vladimir Stoiljkovic (RedIcon)
+E-Mail: hello@redicon.eu
+Site: http://redicon.eu
+Twitter: stoiljkovic_v                            
+Location: Belgrade, Serbia
+
+/* THANKS */                       
+Thanks goes to AngryFrog, GMC
+                            
+/* SITE */
+Standards: HTML5, CSS3, PHP5
+Components: Modernizr, jQuery, Featherlight
+
+/* SOFTWARE */
+Win8.1, WeBuilder 2015, Uniform Server, Google Chrome

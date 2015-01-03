@@ -16,6 +16,7 @@ if (!defined('VERSIONCT')) {
         <link rel="icon" type="image/png" href="admin/img/favicon.png" />
         <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
         <link rel="icon" href="./favicon.ico" type="image/x-icon">
+        <link rel="author" href="humans.txt" />
 
         <title>
         <?php echo $config['SITE_NAME']; ?>
