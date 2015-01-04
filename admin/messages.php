@@ -78,7 +78,7 @@ if (!defined('VERSIONCT')) {
         <!-- Nav tabs -->
         <ul class="nav nav-tabs" role="tablist">
 
-          <li role="presentation" class="active"><a href="#inbox" role="tab" data-toggle="tab"><?php echo $lang['INBOX'];?>&nbsp;&nbsp;&nbsp;&nbsp;
+          <li role="presentation" class="active"><a href="#inbox" role="tab" data-toggle="tab"><?php echo $lang['MSG_REPORTED'];?>&nbsp;&nbsp;&nbsp;&nbsp;
           <?php if ($_SESSION['rep_count'] > 0) { ?>
           <span class="badge"><?php echo $_SESSION['rep_count'];?></span>
           <?php } ?></a></li>

@@ -157,7 +157,7 @@
                 }
                 ?>
                 </ul>
-                <script>$("ul.paging").quickPager();</script>
+                <script>$("ul.paging").quickPager();</script> 
             </div>
         </div>
         <hr />

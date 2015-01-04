@@ -24,7 +24,7 @@ if (!defined('VERSIONCT')) {
 
         <meta name="description" content="<?php echo $config['SITE_DESC']; ?>">
         <link href="admin/include/cache.php?css=frontcss" rel="stylesheet">
-	    <script async src="admin/include/cache.php?js=library" charset="utf-8"></script>
+	    <script src="admin/include/cache.php?js=library" charset="utf-8"></script>
 
 
         </head>
