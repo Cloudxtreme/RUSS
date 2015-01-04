@@ -86,7 +86,7 @@ if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
                     echo "<div class='alert alert-success animated bounceInRight' role='alert'><span class='glyphicon glyphicon-ok'></span> <strong>EXEC is Allowed: YES</strong></div>";
                     } else {
                     $cpi = 1;
-                      echo "<div class='alert alert-danger animated bounceInRight' role='alert'><span class='glyphicon glyphicon-remove'></span> <strong>EXEC is  Allowed: NO</strong> - The INSTALL will not work. Please <a href='http://redicon.eu/?smd_process_download=1&download_id=378' target='_blank'>click here</a> to see steps for manual setup.</div>";
+                      echo "<div class='alert alert-danger animated bounceInRight' role='alert'><span class='glyphicon glyphicon-remove'></span> <strong>EXEC is  Allowed: NO</strong> - The INSTALL will not work. Please <a href='../_Support_Files-Do_Not_Upload/russ_manual_install.zip' target='_blank'>click here</a> to see steps for manual setup.</div>";
                   } ?>
 
                   <?php
