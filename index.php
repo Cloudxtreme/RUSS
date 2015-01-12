@@ -60,8 +60,9 @@ include ('messages.inc.php');
                 ?>
                 </div>
             </div>
-            </form>
 
+            </form>
+            </div>
 
             <form action="admin/process.php" method="post" class="form-horizontal" role="form">
             <div class="form-group">
